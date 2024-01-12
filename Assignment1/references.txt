@@ -1,0 +1,2 @@
+Reference-https://faculty.wharton.upenn.edu/wp-content/uploads/2012/04/Bandit-problems-with-infinitely-many-arms.pdf 
+https://github.com/Naereen/Kullback-Leibler-divergences-and-kl-UCB-indexes/blob/master/Kullback_Leibler_divergences_in_native_Python__Cython_and_Numba.py 
